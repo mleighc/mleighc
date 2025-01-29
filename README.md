@@ -10,6 +10,6 @@ I’m a data analyst, programmer, and lifelong learner specializing in workflow 
 Python (pandas, NumPy), R (Tidyverse), SQL, Tableau, Power BI, dbt (Learning), PostgreSQL, REDCap, Salesforce, Microsoft Power Automate, Microsoft 365, HTML5, CSS, Quarto
 
 ## 📬 Connect
-🔗 Portfolio: mleighc.github.io
-💼 LinkedIn: linkedin.com/in/mirandaleigh
-📧 Email: mleighc@umich.edu
+- 🔗 Portfolio: mleighc.github.io
+- 💼 LinkedIn: linkedin.com/in/mirandaleigh
+- 📧 Email: mleighc@umich.edu
