@@ -11,5 +11,5 @@ Python (pandas, NumPy), R (Tidyverse), SQL, Tableau, Power BI, dbt (Learning), P
 
 ## 📬 Connect
 - 🔗 Portfolio: [mleighc.github.io](https://mleighc.github.io/)
-- 💼 LinkedIn: linkedin.com/in/mirandaleigh
+- 💼 LinkedIn: [linkedin.com/in/mirandaleigh](https://www.linkedin.com/in/mirandaleigh/)
 - 📧 Email: mleighc@umich.edu
