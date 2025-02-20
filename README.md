@@ -7,7 +7,7 @@ I’m a data analyst, programmer, and lifelong learner specializing in workflow 
 - **[Fluffy Feeling Co.](https://fluffyfeelingco.etsy.com)**: Running an e-commerce brand using print-on-demand and automation tools.
 
 ## 🛠 Technical Skills
-Python (pandas, NumPy), R (Tidyverse), SQL, Tableau, Power BI, dbt (Learning), PostgreSQL, REDCap, Salesforce, Microsoft Power Automate, Microsoft 365, HTML5, CSS, Quarto
+Python, R, SQL, Tableau, Power BI, dbt (Learning), PostgreSQL, REDCap, Salesforce, Microsoft Power Automate, Microsoft 365, HTML5, CSS, Quarto
 
 ## 📬 Connect
 - 🔗 Portfolio: [mleighc.github.io](https://mleighc.github.io/)
