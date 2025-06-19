@@ -13,3 +13,4 @@ Python, R, SQL, Tableau, Power BI, dbt (Learning), PostgreSQL, REDCap, Salesforc
 - 🔗 Portfolio: [mleighc.github.io](https://mleighc.github.io/)
 - 💼 LinkedIn: [linkedin.com/in/mirandaleigh](https://www.linkedin.com/in/mirandaleigh/)
 - 📧 Email: mleighc@umich.edu
+- 📄 Resume: [registry.jsonresume.org/mleighc](https://registry.jsonresume.org/mleighc)
