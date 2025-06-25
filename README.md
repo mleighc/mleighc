@@ -32,7 +32,7 @@ With 9+ years of experience across academic research, nonprofit operations, and 
 
 ## 🌱 Aspirations
 
-I’m transitioning into **analytics engineering and data infrastructure** work where I can use my skills in **automation, reproducible workflows**, and **data integration** at scale. I'm especially drawn to roles that combine **hands-on programming** with **systems thinking**—in service of **mission-driven organizations** or high-impact research teams.
+I’m transitioning into **analytics engineering and data infrastructure** work where I can use my skills in **automation, reproducible workflows**, and **data integration** at scale. I'm especially drawn to roles that combine **hands-on programming** with **systems thinking**, in service of **mission-driven organizations** or high-impact research teams.
 
 ---
 
